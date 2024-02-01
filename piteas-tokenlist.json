@@ -1323,6 +1323,16 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x2bA6e201ad6f14522320BEA885A102dbb798C345.png"
     }
+
+    {
+    "chainId": 369,
+    "name": "Alien",
+    "address": "0x1b7b541bea3af39292fce08649e4c4e1bee408a1",
+    "symbol": " Alien",
+    "decimals": 18,
+    "logoURI": " https://github.com/Lokoweb3/app-tokens/blob/042c0a6d5aa6f653a6f9487922ca9ef0c68865c8/token-logo/0x1b7b541bea3af39292fce08649e4c4e1bee408a1.png ",
+    }
+
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
 }
